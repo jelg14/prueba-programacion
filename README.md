@@ -69,18 +69,18 @@ Para que el proyecto pueda correr de forma correcta, necesita lo siguiente:
                            
                                                
   ## Levantar base de datos
-     -- Primero debemos descargar e instalar [xampp](https://www.apachefriends.org/download.html), al momento de instalar, seleccionamos que instale unicamente Mysql, apache
+     * Primero debemos descargar e instalar [xampp](https://www.apachefriends.org/download.html), al momento de instalar, seleccionamos que instale unicamente Mysql, apache
        y phpmyAdmin, que son las herramientas que utilizaremos, como en la siguiente imagen
                                                
                                <!--AQUI DEBE IR PROGRAMAS QUE DEBEMOS ACTIVAR-->
                                                
-     -- Una vez instalado, debemos activar el servicio, para ello abrimos el panel de control de xampp y activamos los servicios de apache y mysql
+     * Una vez instalado, debemos activar el servicio, para ello abrimos el panel de control de xampp y activamos los servicios de apache y mysql
                                <!--AQUI DEBEN IR SERVICIOS DE XAMPP-->
-     -- Cuando esten los dos servicios activos, nos dirigimos al navegador y nos dirijimos a [http://localhost/phpmyadmin/](http://localhost/phpmyadmin/)
+     * Cuando esten los dos servicios activos, nos dirigimos al navegador y nos dirijimos a [http://localhost/phpmyadmin/](http://localhost/phpmyadmin/)
         y nos debera mostrar lo siguiente
                     
                                <!--AQUI DEBEN IR phpmyadmininicio-->
-      -- para finalizar, importe la base de datos ubicada en el archivo carros.sql, y verifique los datos del usuario administrador de phpmyadmin (usuario y contraseña)
+     * para finalizar, importe la base de datos ubicada en el archivo carros.sql, y verifique los datos del usuario administrador de phpmyadmin (usuario y contraseña)
          esto para evitar problemas con la conexion durante la ejecucion del programa, si sucede, cambiar el user y password por los que usted posea en phpmyadmin, y 
           verifique que el nombre de la base de datos sea el correcto.
                                                
@@ -112,7 +112,7 @@ Para ejecutar el proyecto, realice los siguientes pasos:
 
 ### Guia de las pruebas   
                                                
-                                               
+     *                                
                            
 ## Contact
 
