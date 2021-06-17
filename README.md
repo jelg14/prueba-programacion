@@ -117,7 +117,16 @@ Para ejecutar el proyecto, realice los siguientes pasos:
                                                                                                                
    * Para verificar la opcion de busqueda individual, verifique que este la opcion GET y que la URL sea http://localhost:3000/datosDelAuto/:<id_del_auto>, una vez que
      se verifique, hacer click en send y le mostrara el resultado de la imagen.
-         <img src="frontend/verificar datos mysql.png" align ="center" alt="acerca de" width="700" height="350">                                                                                                                 
+         <img src="frontend/verificar datos mysql.png" align ="center" alt="acerca de" width="700" height="350">
+                                                                                                               
+   * Para verificar la opcion de editar, verifique que este la opcion PUT y que la URL sea http://localhost:3000/editarAuto/:<id_del_auto>, una vez que
+     se verifique, utilice de ejemplo este formato json para modificar, puede cambiar los valores segun desee.
+                                                                                                               
+         <img src="frontend/verificar datos mysql.png" align ="center" alt="acerca de" width="700" height="350">
+                                                                                                               
+    Una vez que haga click en send le mostrara el resultado de la imagen, puede verificar la actualizacion del dato utilizando la opcion de busqueda por id.
+                                                                                                               
+        <img src="frontend/verificar datos mysql.png" align ="center" alt="acerca de" width="700" height="350">                                                                                                       
                                                                                                                
 ## Contact
 
