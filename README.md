@@ -9,8 +9,6 @@
 </p>
 
 
-
-
 <details open="open">
   <summary><h2 style="display: inline-block">Contenido</h2></summary>
   <ol>
@@ -30,8 +28,12 @@
 ## Acerca de
 
 <!-- Aqui debe ir la imagen de la vista de usuario -->
-
-<!-- Aqui debe ir informacion detallada del proyecto -->
+EL proyecto consiste en el sistema de control y registro de vehiculos, en el cual se podra tambien modificar 
+los datos asi como eliminar un vehiculo en especifico.
+ 
+El objetivo de este documento es ayudar a cualquier desarrollador para que pueda ejecturalo sin problemas dentro
+de su propio dispositivo, por lo cual se desglosara a continuación lo que necesita para poder utilizar la aplicacion
+sin ningun problema. (El backend ya esta terminado, la vista aun no tiene logica de programación).
 
 ## Tecnologias utilizadas
 
