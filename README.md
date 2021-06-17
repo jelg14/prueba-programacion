@@ -110,7 +110,7 @@ Para ejecutar el proyecto, realice los siguientes pasos:
 
 ### Guia de las pruebas   
                                                
-     *para realizar las pruebas, debemos abrir postman y realizar lo siguiente
+     para realizar las pruebas, debemos abrir postman y realizar lo siguiente
                                                
       --Para verificar la opcion de busqueda grupal, verifique los siguientes datos:
          1. Que este la opcion GET
