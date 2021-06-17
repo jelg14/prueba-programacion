@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema de control de vehiculos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <section class="formulario-registro">
+        <h3>Registro de Vehiculos</h3>
+        <input class="text" type="text" name="Marca" id="marca" placeholder="Ingrese la marca del vehiculo">
+        <input class="text" type="text" name="Modelo" id="modelo" placeholder="Ingrese el modelo del vehiculo">
+        <input class="text" type="text" name="Año" id="año" placeholder="Ingrese el año de creacion del vehiculo">
+        <input class="text" type="text" name="Placa" id="placa" placeholder="Ingrese la placa del vehiculo">
+        <div class="Selector" style="width:200px;">
+            <select class="text">
+                  <option value="0">Seleccione El estado del vehiculo</option>
+                  <option value="1">Perfecto</option>
+                  <option value="2">Daño menor</option>
+                  <option value="3">Reparación urgente</option>
+                  <option value="4">En reparación</option>
+                  <option value="5">Descarte</option>
+                </select>
+        </div>
+        <buton class="boton" onclick="guardar()">Ingresar datos</buton>
+    </section>
+    <div class="contenedor-tabla">
+        <table class="tabla">
+            <caption>Tabla del registro de Vehiculos</caption>
+            <thead>
+                <tr>
+                    <th>Marca</th>
+                    <th>Modelo</th>
+                    <th>Año</th>
+                    <th>Placa</th>
+                    <th>Estado</th>
+                </tr>
+            </thead>
+            <tbody id="cuerpoTabla">
+                <tr>
+                    <td data-label="Marca">Mazda</td>
+                    <td data-label="Modelo">Protege</td>
+                    <td data-label="Año">2000</td>
+                    <td data-label="Placa"> A-BCD123</td>
+                    <td data-label="Estado">En reparación</td>
+                </tr>
+                <tr>
+                    <td data-label="Marca">Ferrari</td>
+                    <td data-label="Modelo">F5</td>
+                    <td data-label="Año">2015</td>
+                    <td data-label="Placa"> J-KL4568</td>
+                    <td data-label="Estado">Daño menor</td>
+                </tr>
+                <tr>
+                    <td data-label="Marca">Mercedes Benz</td>
+                    <td data-label="Modelo">AMG GT</td>
+                    <td data-label="Año">2018</td>
+                    <td data-label="Placa"> X-OPQ764</td>
+                    <td data-label="Estado">Perfecto</td>
+                </tr>
+            </tbody>
+        </table>
+        <script>
+            function guardar() {
+                var marca = document.getElementById("marca").value;
+                var modelo = document.getElementById("modelo").value;
+                var año = document.getElementById("año").value;
+                var placa = document.getElementById("placa").value;
+                var estado = document.getElementById("estado").value;
+                var fila = "<tr><td>" + marca + "</td><td>" + modelo + "</td><td>" + año + "</td><td>" + placa + "</td></tr>" + estado + "</td></tr>";
+                var btn = document.createElement("tr");
+                btn.innerHTML = fila;
+                document.getElementById("cuerpoTabla").appendChild(btn);
+            }
+        </script>
+    </div>
+</body>
+
+</html>
