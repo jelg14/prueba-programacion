@@ -46,7 +46,6 @@ sin ningun problema. (El backend ya esta terminado, la vista aun no tiene logica
 * HTML
 * CSS               
 
-
 ## pre-requisitos
 
 Para que el proyecto pueda correr de forma correcta, necesita lo siguiente:
@@ -67,7 +66,7 @@ Para que el proyecto pueda correr de forma correcta, necesita lo siguiente:
                           
                    <img src="frontend/verificacion instalacion nodejs.png " align ="center" alt="acerca de" width="700" height="350">                                                                                      
                                                           
-       Lo marcado en rojo, es la version de nodejs, lo cual indica que si esta instalado
+       
                            
                                                
   ## Levantar base de datos
