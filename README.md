@@ -124,7 +124,7 @@ Para ejecutar el proyecto, realice los siguientes pasos:
         <img src="frontend/verificar datos mysql.png" align ="center" alt="acerca de" width="700" height="350">
       
    Una vez que haga click en send le mostrara el resultado de la imagen, puede verificar la actualizacion del dato utilizando la opcion de busqueda por id.
-   <img src="frontend/verificar datos mysql.png" align ="center" alt="acerca de" width="700" height="350">                                                                                                           
+        <img src="frontend/verificar datos mysql.png" align ="center" alt="acerca de" width="700" height="350">                                                                                                           
                                                                                                               
 ## Contact
 
