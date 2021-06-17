@@ -112,6 +112,7 @@ Para ejecutar el proyecto, realice los siguientes pasos:
    Para realizar las pruebas, siga las siguientes instrucciones:         
                                                                                                              
    * Para verificar la opcion de busqueda grupal, verifique los siguientes datos:
+        -Que este la opcion GET                                                                                                     
                                                                                                              
 ## Contact
 
