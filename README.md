@@ -63,7 +63,8 @@ Para que el proyecto pueda correr de forma correcta, necesita lo siguiente:
 * NodeJs
       : A traves de este entorno de desarrollo, se ejecutara la aplicacion, para descargar, hacer click [aqui](https://nodejs.org/es/download/), ejecutar el siguiente
         comando en el cmd. Lo marcado en rojo, es la version de nodejs, lo cual indica que si esta instalado
-                          
+                                                                           
+          <img src="frontend/verificacion instalacion nodejs.png " align ="center" alt="acerca de" width="700" height="350">                                           
                                                                                      
   ## Levantar base de datos
      * Primero debemos descargar e instalar [xampp](https://www.apachefriends.org/download.html), al momento de instalar, seleccionamos que instale unicamente Mysql, apache
