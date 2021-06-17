@@ -111,7 +111,7 @@ Para ejecutar el proyecto, realice los siguientes pasos:
 ### Guia de las pruebas   
    Para realizar las pruebas, siga las siguientes instrucciones:         
                                                                                                              
-   *Para verificar la opcion de busqueda grupal, verifique los siguientes datos:
+   * Para verificar la opcion de busqueda grupal, verifique los siguientes datos:
                                                                                                              
 ## Contact
 
