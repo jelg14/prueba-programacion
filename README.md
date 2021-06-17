@@ -28,7 +28,7 @@
 
 ## Acerca de
 
- <img src="frontend/Imagen Acerca de.png " align ="center" alt="acerca de" width="700" height="350"> 
+ <img src="frontend/Imagen Acerca de.png " align ="center" alt="acerca de" width="800" height="450"> 
                                                                               
 EL proyecto consiste en el sistema de control y registro de vehiculos, en el cual se podra tambien modificar 
 los datos asi como eliminar un vehiculo en especifico.
@@ -121,7 +121,7 @@ Para ejecutar el proyecto, realice los siguientes pasos:
                                                                                                                
    * Para verificar la opcion de editar, verifique que este la opcion PUT y que la URL sea http://localhost:3000/editarAuto/:<id_del_auto>, una vez que
      se verifique, utilice de ejemplo este formato json para modificar, puede cambiar los valores segun desee.
-        <img src="frontend/postman editar.png" align ="center" alt="acerca de" width="700" height="350">
+        <img src="frontend/postman editar.png" align ="center" alt="acerca de" width="500" height="250">
       
      Una vez que haga click en send le mostrara el resultado de la imagen, puede verificar la actualizacion del dato utilizando la opcion de busqueda por id.                   
         <img src="frontend/postman editar resultado.png" align ="center" alt="acerca de" width="700" height="350">                                                               
