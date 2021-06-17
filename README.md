@@ -40,25 +40,28 @@
 
 ## pre-requisitos
 
-This is an example of how to list things you need to use the software and how to install them.
+Para que el proyecto pueda correr de forma correcta, necesita lo siguiente:
 * npm
   ```sh
   npm install npm@latest -g
   ```
-
+* MySQL
+  -- para poder hacer la conexion con la base de datos, debe importar el archivo carrosdb.sql a cualquier herramienta de administracion
+     de base de datos, por ejemplo: MySQL workbench, MariaDB, phpMyAdmin. Esto para poder realizar la conexion de la base de datos a la aplicacion
+* Postman
+                           
 ## Instalacion
 
-To get a local copy up and running follow these simple steps.
+para tener una copia local del proyecto, siga los siguientes pasos.
 
-1. Clone the repo
+1. Clonar el repositorio
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/jelg14/prueba-programacion
    ```
-2. Install NPM packages
+2. instalar todos los paquetes de Packet.json
    ```sh
-   npm install
+   npm install .
    ```
-
 
 
 <!-- USAGE EXAMPLES -->
@@ -73,6 +76,6 @@ http://localhost:3000/
 
 ## Contact
 
-Your Name  - email [jeduardo14lopez@gmail.com]
+José López - email [jeduardo14lopez@gmail.com]
 
 Project Link: [https://github.com/jelg14/prueba-programacion](https://github.com/jelg14/prueba-programacion)
