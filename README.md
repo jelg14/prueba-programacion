@@ -62,14 +62,17 @@ Para que el proyecto pueda correr de forma correcta, necesita lo siguiente:
       : El programa servira para realizar las pruebas de lado backend (express, nodejs), para descargarla, hacer click aqui: [postman.com](https://www.postman.com/)
 * NodeJs
       : A traves de este entorno de desarrollo, se ejecutara la aplicacion, para descargar, hacer click [aqui](https://nodejs.org/es/download/), ejecutar el siguiente
-        comando en el cmd. Lo marcado en rojo, es la version de nodejs, lo cual indica que si esta instalada.
+        comando en el cmd.
+                                                                                                   
+       Lo marcado en rojo, es la version de nodejs, lo cual indica que si esta instalada.
+                                                                                                   
      <img src="frontend/verificacion instalacion nodejs.png " align ="center" alt="acerca de" width="700" height="350"> 
                                                                                                        
   ## Levantar base de datos
      * Primero debemos descargar e instalar [xampp](https://www.apachefriends.org/download.html), al momento de instalar, seleccionamos que instale unicamente Mysql, apache
        y phpmyAdmin, que son las herramientas que utilizaremos, como en la siguiente imagen
                                                
-                               <!--AQUI DEBE IR PROGRAMAS QUE DEBEMOS ACTIVAR-->
+      <img src="frontend/programas que debemos activar para xampp.jpg " align ="center" alt="acerca de" width="700" height="350"> 
                                                
      * Una vez instalado, debemos activar el servicio, para ello abrimos el panel de control de xampp y activamos los servicios de apache y mysql
                                <!--AQUI DEBEN IR SERVICIOS DE XAMPP-->
