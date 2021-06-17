@@ -1,0 +1,22 @@
+{
+    "name": "prueba_de_programacion",
+    "version": "1.0.0",
+    "description": "prueba de programacion hecha con nodejs, express y MySQL",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon src/index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "prueba",
+        "programacion"
+    ],
+    "author": "Jose Lopez",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "express": "^4.17.1",
+        "mysql": "^2.18.1",
+        "nodemon": "^2.0.7"
+    }
+}
