@@ -18,7 +18,7 @@
     <li><a href="#Instalacion">Instalacion</a></li>
     <li>
         <a href="#Ejecutar">Ejecutar</a>
-        <ul>
+        <ul><li><a href="#Levantar-base-de-datos"> Levantar base de datos</a></li>
             <li><a href ="#Guia-de-las-pruebas">Guia de las pruebas</a></li>
         </ul>
     </li>
@@ -54,10 +54,38 @@ Para que el proyecto pueda correr de forma correcta, necesita lo siguiente:
   ```
 * MySQL
      :para poder hacer la conexion con la base de datos, debe importar el archivo carrosdb.sql a cualquier herramienta de administracion
-     de base de datos, por ejemplo: MySQL workbench, MariaDB, phpMyAdmin. Esto para poder realizar la conexion de la base de datos a la aplicacion
+     de base de datos, por ejemplo: MySQL workbench, MariaDB, phpMyAdmin. Esto para poder realizar la conexion de la base de datos a la aplicacion,
+     más adelante se explicara como levantar la base de datos utilizando phpMyAdmin, ya que lo realice de esta manera en mi equipo y considere que 
+     sería mas practico realizarlo de esta manera.
 * Postman
       : El programa servira para realizar las pruebas de lado backend (express, nodejs), para descargarla, hacer click aqui: [postman.com](https://www.postman.com/)
+*NodeJs
+      : A traves de este entorno de desarrollo, se ejecutara la aplicacion, para descargar, hacer click [aqui](https://nodejs.org/es/download/), ejecutar el siguiente
+        comando en el cmd
+                           <!--AQUI DEBE IR IMAGEN COMPROBACION NODEJS-->                    
+                                                          
+       Lo marcado en rojo, es la version de nodejs, lo cual indica que si esta instalado
                            
+                                               
+  * ### Levantar base de datos
+     -- Primero debemos descargar e instalar [xampp](https://www.apachefriends.org/download.html), al momento de instalar, seleccionamos que instale unicamente Mysql, apache
+       y phpmyAdmin, que son las herramientas que utilizaremos, como en la siguiente imagen
+                                               
+                               <!--AQUI DEBE IR PROGRAMAS QUE DEBEMOS ACTIVAR-->
+                                               
+     -- Una vez instalado, debemos activar el servicio, para ello abrimos el panel de control de xampp y activamos los servicios de apache y mysql
+                               <!--AQUI DEBEN IR SERVICIOS DE XAMPP-->
+     -- Cuando esten los dos servicios activos, nos dirigimos al navegador y nos dirijimos a [http://localhost/phpmyadmin/](http://localhost/phpmyadmin/)
+        y nos debera mostrar lo siguiente
+                    
+                               <!--AQUI DEBEN IR phpmyadmininicio-->
+      -- para finalizar, importe la base de datos ubicada en el archivo carros.sql, y verifique los datos del usuario administrador de phpmyadmin (usuario y contraseña)
+         esto para evitar problemas con la conexion durante la ejecucion del programa, si sucede, cambiar el user y password por los que usted posea en phpmyadmin, y 
+          verifique que el nombre de la base de datos sea el correcto.
+                                               
+                                <!--Aqui debe ir verificar datos mysql-->
+                                               
+                                    
 ## Instalacion
 
 para tener una copia local del proyecto, siga los siguientes pasos.
@@ -73,19 +101,20 @@ para tener una copia local del proyecto, siga los siguientes pasos.
 
 ## Ejecutar
 Para ejecutar el proyecto, realice los siguientes pasos:
-1. Levantar el servicio de MySQL, esto para que el administrador este activo y se puede realizar la conexion a la base de datos.                           
-
-2. Ejecutar el comando de Inicio:
-  ```sh                         
-  npm start
-  ```
-3. Una vez se ejecute el proyecto, se podra comenzar a realizar las pruebas de funcion con Postman.
+ 
+  1. Ejecutar el comando de Inicio:
+    ```sh                         
+    npm start
+    ```
+  3. Una vez se ejecute el proyecto, se podra comenzar a realizar las pruebas de funcion con Postman.
 
 
 ### Guia de las pruebas   
+                                               
+                                               
                            
 ## Contact
 
-José López - email [jeduardo14lopez@gmail.com]
+José López - email [jeduardo14lopez@gmail.com](jeduardo14lopez@gmail.com)
 
 Project Link: [https://github.com/jelg14/prueba-programacion](https://github.com/jelg14/prueba-programacion)
