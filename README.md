@@ -62,9 +62,7 @@ Para que el proyecto pueda correr de forma correcta, necesita lo siguiente:
       : El programa servira para realizar las pruebas de lado backend (express, nodejs), para descargarla, hacer click aqui: [postman.com](https://www.postman.com/)
 * NodeJs
       : A traves de este entorno de desarrollo, se ejecutara la aplicacion, para descargar, hacer click [aqui](https://nodejs.org/es/download/), ejecutar el siguiente
-        comando en el cmd.
-                                                                                                   
-       Lo marcado en rojo, es la version de nodejs, lo cual indica que si esta instalada.
+        comando en el cmd.   Lo marcado en rojo, es la version de nodejs, lo cual indica que si esta instalada.
                                                                                                    
      <img src="frontend/verificacion instalacion nodejs.png " align ="center" alt="acerca de" width="700" height="350"> 
                                                                                                        
