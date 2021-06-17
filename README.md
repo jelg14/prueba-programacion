@@ -4,13 +4,13 @@
   </a>
 
   <h2 align="center">prueba-programacion-procesos-eficientes</h2>
-                    <hr>
+                
   <h4 align = "center">instrucciones para levantar el ambiente local de desarrollo y la base de datos</h4>
 </p>
 
 
 
-<!-- TABLE OF CONTENTS -->
+
 <details open="open">
   <summary><h2 style="display: inline-block">Contenido</h2></summary>
   <ol>
@@ -38,9 +38,9 @@
 * [NodeJS](https://nodejs.org/)
 * [Express](http://expressjs.com/)
 * [MySQL](https://www.mysql.com/)
-* [Javascript]
-* [HTML]
-* [CSS]                     
+* Javascript
+* HTML
+* CSS               
 
 
 ## pre-requisitos
