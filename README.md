@@ -135,4 +135,4 @@ Para ejecutar el proyecto, realice los siguientes pasos:
 
 José López - email [jeduardo14lopez@gmail.com](jeduardo14lopez@gmail.com)
 
-Project Link: [https://github.com/jelg14/prueba-programacion](https://github.com/jelg14/prueba-programacion)
+Link del proyecto: [https://github.com/jelg14/prueba-programacion](https://github.com/jelg14/prueba-programacion)
