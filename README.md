@@ -115,33 +115,40 @@ Para ejecutar el proyecto, realice los siguientes pasos:
       --Para verificar la opcion de busqueda grupal, verifique los siguientes datos:
          1. Que este la opcion GET
          2. Que la url sea: http://localhost:3000/autosRegistrados  
-      Una ves que se verifique, hacer click en send y le mostrara el resultado de la imagen.    
-                                               <!--imagen postman autos registrados -->                                         
-                                               
+      Una ves que se verifique, hacer click en send y le mostrara el resultado de la imagen.
+      <img src="frontend/verificar datos mysql.png" align ="center" alt="acerca de" width="700" height="350">
+                                                                                                            
        --Para verificar la opcion de busqueda individual, verifique los siguientes datos:
          1. Que este la opcion GET
          2. Que la url sea: http://localhost:3000/datosDelAuto/:<id_del_auto>
-       Una ves que se verifique, hacer click en send y le mostrara el resultado de la imagen.          
-                                               <!--imagen postman busqueda por id -->
-                  
+       Una ves que se verifique, hacer click en send y le mostrara el resultado de la imagen.
+       <img src="frontend/verificar datos mysql.png" align ="center" alt="acerca de" width="700" height="350"> 
+                                                                                                             
     --Para verificar la opcion de editar, verifique los siguientes datos:
          1. Que este la opcion PUT
          2. Que la url sea: http://localhost:3000/editarAuto/:<id_del_auto>
     Una ves que se verifique, utilice de ejmplo este formato json para modificar, lo valores
     puede cambiarlos por los que usted quiera
-                                               <!--imagen postman editar -->
-    
-    Una ves que haga click en send, le mostrara el resultado de la imagen.  
-                                               <!--imagen postman editar resultado-->
+                                                                                                             
+    <img src="frontend/verificar datos mysql.png" align ="center" alt="acerca de" width="700" height="350"> 
+                                                                                                          
+    Una ves que haga click en send, le mostrara el resultado de la imagen. 
+                                                                                                          
+    <img src="frontend/verificar datos mysql.png" align ="center" alt="acerca de" width="700" height="350"> 
+                                                                                                          
     Puede verificar la actualizacion del dato utilizando la opcion de busqueda por id.
                                                
+                                                                                                          
      --Para verificar la opcion de eliminar, verifique los siguientes datos:
          1. Que este la opcion DELETE
          2. Que la url sea: http://localhost:3000/datosDelAuto/:<id_del_auto>
-     Una ves que haga click en send, le mostrara el resultado de la imagen.  
-                                               <!--imagen postman eliminar -->
+     Una ves que haga click en send, le mostrara el resultado de la imagen.
+                                                                                                          
+       <img src="frontend/verificar datos mysql.png" align ="center" alt="acerca de" width="700" height="350">   
+                                                                                                             
      puede verificar que el dato se elimino utilizando la busqueda por id, la cual no mostrara resultado
                                              
+                                                                                                             
 ## Contact
 
 José López - email [jeduardo14lopez@gmail.com](jeduardo14lopez@gmail.com)
