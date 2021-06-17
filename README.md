@@ -60,7 +60,7 @@ Para que el proyecto pueda correr de forma correcta, necesita lo siguiente:
      sería mas practico realizarlo de esta manera.
 * Postman
       : El programa servira para realizar las pruebas de lado backend (express, nodejs), para descargarla, hacer click aqui: [postman.com](https://www.postman.com/)
-*NodeJs
+* NodeJs
       : A traves de este entorno de desarrollo, se ejecutara la aplicacion, para descargar, hacer click [aqui](https://nodejs.org/es/download/), ejecutar el siguiente
         comando en el cmd
                           
