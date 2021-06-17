@@ -21,7 +21,7 @@
     <li>
         <a href="#Ejecutar">Ejecutar</a>
         <ul>
-            <li><a href ="#Guia-de-las pruebas">Guia de las pruebas</a></li>
+            <li><a href ="#Guia-de-las-pruebas">Guia de las pruebas</a></li>
         </ul>
     </li>
   </ol>
