@@ -2,7 +2,7 @@
 
 
 
-<img margin-top = "-155px" src="https://static.vecteezy.com/system/resources/previews/000/423/990/original/vector-document-in-folder-icon.jpg" alt="Logo" width="80" height="80" >
+<img align = "center" src="https://static.vecteezy.com/system/resources/previews/000/423/990/original/vector-document-in-folder-icon.jpg" alt="Logo" width="100" height="100" >
 
 <h3  align="center">prueba-programacion</h3>
 <hr>
