@@ -109,8 +109,10 @@ Para ejecutar el proyecto, realice los siguientes pasos:
 
 
 ### Guia de las pruebas   
-   Para realizar las pruebas, siga las siguientes instrucciones:                                               
-                                              
+   Para realizar las pruebas, siga las siguientes instrucciones:         
+                                                                                                             
+   *Para verificar la opcion de busqueda grupal, verifique los siguientes datos:
+                                                                                                             
 ## Contact
 
 José López - email [jeduardo14lopez@gmail.com](jeduardo14lopez@gmail.com)
