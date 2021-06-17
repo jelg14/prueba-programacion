@@ -18,7 +18,12 @@
     <li><a href="#tecnologias-utilizadas">Tecnologias utilizadas</a></li>
     <li><a href="#pre-requisitos">pre-requisitos</a></li>
     <li><a href="#Instalacion">Instalacion</a></li>
-    <li><a href="#Ejecutar">Ejecutar</a></li>
+    <li>
+        <a href="#Ejecutar">Ejecutar</a>
+        <ul>
+            <li><a href ="#Guia-de-las-pruebas">Guia de las pruebas</a></li>
+        </ul>
+    </li>
   </ol>
 </details>
 
@@ -46,9 +51,10 @@ Para que el proyecto pueda correr de forma correcta, necesita lo siguiente:
   npm install npm@latest -g
   ```
 * MySQL
-  -- para poder hacer la conexion con la base de datos, debe importar el archivo carrosdb.sql a cualquier herramienta de administracion
+     :para poder hacer la conexion con la base de datos, debe importar el archivo carrosdb.sql a cualquier herramienta de administracion
      de base de datos, por ejemplo: MySQL workbench, MariaDB, phpMyAdmin. Esto para poder realizar la conexion de la base de datos a la aplicacion
 * Postman
+      : El programa servira para realizar las pruebas de lado backend (express, nodejs), para descargarla, hacer click aqui: [postman.com](https://www.postman.com/)
                            
 ## Instalacion
 
@@ -66,14 +72,18 @@ para tener una copia local del proyecto, siga los siguientes pasos.
 
 <!-- USAGE EXAMPLES -->
 ## Ejecutar
-Para ejecutar normalmente:
+Para ejecutar el proyecto, realice los siguientes pasos:
+1. Levantar el servicio de MySQL, esto para que el administrador este activo y se puede realizar la conexion a la base de datos.                           
 
-npm start
+2. Ejecutar el comando de Inicio:
+  ```sh                         
+  npm start
+  ```
+3. Una vez se ejecute el proyecto, se podra comenzar a realizar las pruebas de funcion con Postman.
 
-Después, visita:
 
-http://localhost:3000/
-
+### Guia de las pruebas   
+                           
 ## Contact
 
 José López - email [jeduardo14lopez@gmail.com]
