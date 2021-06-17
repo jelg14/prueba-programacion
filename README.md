@@ -71,7 +71,7 @@ Para que el proyecto pueda correr de forma correcta, necesita lo siguiente:
   ## Levantar base de datos
      * Primero debemos descargar e instalar [xampp](https://www.apachefriends.org/download.html), al momento de instalar, seleccionamos que instale unicamente Mysql, apache
        y phpmyAdmin, que son las herramientas que utilizaremos, como en la siguiente imagen.
-        <img src="frontend/verificacion instalacion nodejs.png " align ="center" alt="acerca de" width="700" height="350"> 
+        <img src="frontend/programas que debemos activar para xampp.jpg " align ="center" alt="acerca de" width="700" height="350"> 
      * Una vez instalado, debemos activar el servicio, para ello abrimos el panel de control de xampp y activamos los servicios de apache y mysql
                                <!--AQUI DEBEN IR SERVICIOS DE XAMPP-->
      * Cuando esten los dos servicios activos, nos dirigimos al navegador y nos dirijimos a [http://localhost/phpmyadmin/](http://localhost/phpmyadmin/)
