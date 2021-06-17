@@ -28,7 +28,7 @@
 
 ## Acerca de
 
- <img src="frontend/Imagen Acerca de.png " alt="acerca de" width="700" height="350"> 
+ <img src="frontend/Imagen Acerca de.png " align ="center" alt="acerca de" width="700" height="350"> 
                                                                               
 EL proyecto consiste en el sistema de control y registro de vehiculos, en el cual se podra tambien modificar 
 los datos asi como eliminar un vehiculo en especifico.
