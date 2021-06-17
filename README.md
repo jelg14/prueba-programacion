@@ -113,8 +113,12 @@ Para ejecutar el proyecto, realice los siguientes pasos:
                                                                                                              
    * Para verificar la opcion de busqueda grupal, verifique que este la opcion GET y que la URL sea http://localhost:3000/autosRegistrados, una vez que
      se verifique, hacer click en send y le mostrara el resultado de la imagen.
-         <img src="frontend/verificar datos mysql.png" align ="center" alt="acerca de" width="700" height="350">                                                                                                    
-                                                                                                             
+         <img src="frontend/verificar datos mysql.png" align ="center" alt="acerca de" width="700" height="350">
+                                                                                                               
+      * Para verificar la opcion de busqueda individual, verifique que este la opcion GET y que la URL sea http://localhost:3000/datosDelAuto/:<id_del_auto>, una vez que
+     se verifique, hacer click en send y le mostrara el resultado de la imagen.
+         <img src="frontend/verificar datos mysql.png" align ="center" alt="acerca de" width="700" height="350">                                                                                                                 
+                                                                                                               
 ## Contact
 
 José López - email [jeduardo14lopez@gmail.com](jeduardo14lopez@gmail.com)
