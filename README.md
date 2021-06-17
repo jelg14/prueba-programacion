@@ -73,18 +73,20 @@ Para que el proyecto pueda correr de forma correcta, necesita lo siguiente:
        y phpmyAdmin, que son las herramientas que utilizaremos, como en la siguiente imagen.
         <img src="frontend/programas que debemos activar para xampp.jpg " align ="center" alt="acerca de" width="700" height="350"> 
      * Una vez instalado, debemos activar el servicio, para ello abrimos el panel de control de xampp y activamos los servicios de apache y mysql
-                               <!--AQUI DEBEN IR SERVICIOS DE XAMPP-->
+                                                                                                                                  
+           <img src="frontend/verificacion instalacion nodejs.png " align ="center" alt="acerca de" width="700" height="350"> 
+                                                                                                                            
      * Cuando esten los dos servicios activos, nos dirigimos al navegador y nos dirijimos a [http://localhost/phpmyadmin/](http://localhost/phpmyadmin/)
         y nos debera mostrar lo siguiente
-                    
-                               <!--AQUI DEBEN IR phpmyadmininicio-->
+                                                                                                                            
+        <img src="frontend/verificacion instalacion nodejs.png " align ="center" alt="acerca de" width="700" height="350"> 
+                                                                                                                         
      * para finalizar, importe la base de datos ubicada en el archivo carros.sql, y verifique los datos del usuario administrador de phpmyadmin (usuario y contraseña)
          esto para evitar problemas con la conexion durante la ejecucion del programa, si sucede, cambiar el user y password por los que usted posea en phpmyadmin, y 
           verifique que el nombre de la base de datos sea el correcto.
-                                               
-                                <!--Aqui debe ir verificar datos mysql-->
-                                               
-                                    
+           
+       <img src="frontend/verificacion instalacion nodejs.png " align ="center" alt="acerca de" width="700" height="350"> 
+                                     
 ## Instalacion
 
 para tener una copia local del proyecto, siga los siguientes pasos.
