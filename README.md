@@ -112,8 +112,7 @@ Para ejecutar el proyecto, realice los siguientes pasos:
    Para realizar las pruebas, siga las siguientes instrucciones:         
                                                                                                              
    * Para verificar la opcion de busqueda grupal, verifique que este la opcion GET y que la URL sea http://localhost:3000/autosRegistrados, una vez que
-     se verifique, hacer click en send y le mostrara el siguiente resultado.
-                                                                                                             
+     se verifique, hacer click en send y le mostrara el siguiente resultado.                                                                                    
          <img src="frontend/postman autos registrados.png" align ="center" alt="acerca de" width="700" height="350">
                                                                                                                
    * Para verificar la opcion de busqueda individual, verifique que este la opcion GET y que la URL sea http://localhost:3000/datosDelAuto/:<id_del_auto>, una vez que
