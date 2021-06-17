@@ -16,7 +16,7 @@
   <ol>
     <li><a href="#acerca-de">Acerca de</a></li>
     <li><a href="#tecnologias-utilizadas">Tecnologias utilizadas</a></li>
-    <li><a href="#pre-requisitos-para-la-instalacion">pre-requisitos para la instalacion</a></li>
+    <li><a href="#pre-requisitos para la instalacion">pre-requisitos para la instalacion</a></li>
     <li><a href="#Instalacion">Instalacion</a></li>
     <li>
         <a href="#Ejecutar">Ejecutar</a>
