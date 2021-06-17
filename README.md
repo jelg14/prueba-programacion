@@ -16,12 +16,12 @@
   <ol>
     <li><a href="#acerca-de">Acerca de</a></li>
     <li><a href="#tecnologias-utilizadas">Tecnologias utilizadas</a></li>
-    <li><a href="#pre-requisitos para la instalacion">pre requisitos para la instalacion</a></li>
+    <li><a href="#pre requisitos para la instalacion">pre requisitos para la instalacion</a></li>
     <li><a href="#Instalacion">Instalacion</a></li>
     <li>
         <a href="#Ejecutar">Ejecutar</a>
         <ul>
-            <li><a href ="#Guia-de-las-pruebas">Guia de las pruebas</a></li>
+            <li><a href ="#Guia-de-las pruebas">Guia de las pruebas</a></li>
         </ul>
     </li>
   </ol>
@@ -69,8 +69,6 @@ para tener una copia local del proyecto, siga los siguientes pasos.
    npm install .
    ```
 
-
-<!-- USAGE EXAMPLES -->
 ## Ejecutar
 Para ejecutar el proyecto, realice los siguientes pasos:
 1. Levantar el servicio de MySQL, esto para que el administrador este activo y se puede realizar la conexion a la base de datos.                           
