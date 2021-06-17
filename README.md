@@ -113,23 +113,23 @@ Para ejecutar el proyecto, realice los siguientes pasos:
                                                                                                              
    * Para verificar la opcion de busqueda grupal, verifique que este la opcion GET y que la URL sea http://localhost:3000/autosRegistrados, una vez que
      se verifique, hacer click en send y le mostrara el resultado de la imagen.
-         <img src="frontend/verificar datos mysql.png" align ="center" alt="acerca de" width="700" height="350">
+         <img src="frontend/postman autos registrados.png" align ="center" alt="acerca de" width="700" height="350">
                                                                                                                
    * Para verificar la opcion de busqueda individual, verifique que este la opcion GET y que la URL sea http://localhost:3000/datosDelAuto/:<id_del_auto>, una vez que
      se verifique, hacer click en send y le mostrara el resultado de la imagen.
-         <img src="frontend/verificar datos mysql.png" align ="center" alt="acerca de" width="700" height="350">
+         <img src="frontend/postman busqueda por id.png" align ="center" alt="acerca de" width="700" height="350">
                                                                                                                
    * Para verificar la opcion de editar, verifique que este la opcion PUT y que la URL sea http://localhost:3000/editarAuto/:<id_del_auto>, una vez que
      se verifique, utilice de ejemplo este formato json para modificar, puede cambiar los valores segun desee.
-        <img src="frontend/verificar datos mysql.png" align ="center" alt="acerca de" width="700" height="350">
+        <img src="frontend/postman editar.png" align ="center" alt="acerca de" width="700" height="350">
       
      Una vez que haga click en send le mostrara el resultado de la imagen, puede verificar la actualizacion del dato utilizando la opcion de busqueda por id.                   
-        <img src="frontend/verificar datos mysql.png" align ="center" alt="acerca de" width="700" height="350">                                                               
+        <img src="frontend/postman editar resultado.png" align ="center" alt="acerca de" width="700" height="350">                                                               
                                                                                                              
    * Para verificar la opcion de eliminar, verifique que este la opcion DELETE y que la URL sea http://localhost:3000/eliminarAuto/:<id_del_auto>, una vez
      que se verifique, hacer click en send y le mostrara el resultado de la imagen. Puede verificar que el dato se elimino usando busqueda por id.
                                                                                                               
-        <img src="frontend/verificar datos mysql.png" align ="center" alt="acerca de" width="700" height="350">                                                                 
+        <img src="frontend/postman eliminar resultado.png" align ="center" alt="acerca de" width="700" height="350">                                                             
                                                                                                               
 ## Contact
 
