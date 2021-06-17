@@ -72,8 +72,7 @@ Para que el proyecto pueda correr de forma correcta, necesita lo siguiente:
         <img src="frontend/programas que debemos activar para xampp.jpg " align ="center" alt="acerca de" width="700" height="350"> 
                                                                                                                                   
      * Una vez instalado, debemos activar el servicio, para ello abrimos el panel de control de xampp y activamos los servicios de apache y mysql
-                                                                                                                                  
-           <img src="frontend/verificacion instalacion nodejs.png " align ="center" alt="acerca de" width="700" height="350"> 
+         <img src="frontend/verificacion instalacion nodejs.png " align ="center" alt="acerca de" width="700" height="350"> 
                                                                                                                             
      * Cuando esten los dos servicios activos, nos dirigimos al navegador y nos dirijimos a [http://localhost/phpmyadmin/](http://localhost/phpmyadmin/)
         y nos debera mostrar lo siguiente:
