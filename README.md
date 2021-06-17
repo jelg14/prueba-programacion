@@ -16,9 +16,10 @@
     <li><a href="#tecnologias-utilizadas">Tecnologias utilizadas</a></li>
     <li><a href="#pre-requisitos">pre-requisitos</a></li>
     <li><a href="#Instalacion">Instalacion</a></li>
+    <li><a href="#Levantar-base-de-datos">Levantar base de datos</a></li>
     <li>
         <a href="#Ejecutar">Ejecutar</a>
-        <ul><li><a href="#Levantar-base-de-datos"> Levantar base de datos</a></li>
+        <ul>
             <li><a href ="#Guia-de-las-pruebas">Guia de las pruebas</a></li>
         </ul>
     </li>
@@ -67,7 +68,7 @@ Para que el proyecto pueda correr de forma correcta, necesita lo siguiente:
        Lo marcado en rojo, es la version de nodejs, lo cual indica que si esta instalado
                            
                                                
-  * ### Levantar base de datos
+  ## Levantar base de datos
      -- Primero debemos descargar e instalar [xampp](https://www.apachefriends.org/download.html), al momento de instalar, seleccionamos que instale unicamente Mysql, apache
        y phpmyAdmin, que son las herramientas que utilizaremos, como en la siguiente imagen
                                                
