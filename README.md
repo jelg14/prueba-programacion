@@ -123,10 +123,10 @@ Para ejecutar el proyecto, realice los siguientes pasos:
      se verifique, utilice de ejemplo este formato json para modificar, puede cambiar los valores segun desee.
         <img src="frontend/verificar datos mysql.png" align ="center" alt="acerca de" width="700" height="350">
       
-   Una vez que haga click en send le mostrara el resultado de la imagen, puede verificar la actualizacion del dato utilizando la opcion de busqueda por id.                   
+     Una vez que haga click en send le mostrara el resultado de la imagen, puede verificar la actualizacion del dato utilizando la opcion de busqueda por id.                   
         <img src="frontend/verificar datos mysql.png" align ="center" alt="acerca de" width="700" height="350">                                                               
                                                                                                              
-   * Para verificar la opcion de eliminar, verifique                                                                                                          
+   * Para verificar la opcion de eliminar, verifique que este la opcion DELETE y que la URL sea                                                                                   
 ## Contact
 
 José López - email [jeduardo14lopez@gmail.com](jeduardo14lopez@gmail.com)
