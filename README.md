@@ -77,10 +77,9 @@ Para que el proyecto pueda correr de forma correcta, necesita lo siguiente:
            <img src="frontend/verificacion instalacion nodejs.png " align ="center" alt="acerca de" width="700" height="350"> 
                                                                                                                             
      * Cuando esten los dos servicios activos, nos dirigimos al navegador y nos dirijimos a [http://localhost/phpmyadmin/](http://localhost/phpmyadmin/)
-        y nos debera mostrar lo siguiente
-                                                                                                                            
-        <img src="frontend/verificacion instalacion nodejs.png " align ="center" alt="acerca de" width="700" height="350"> 
-                                                                                                                         
+        y nos debera mostrar lo siguiente:
+                  
+        <img src="frontend/verificacion instalacion nodejs.png " align ="center" alt="acerca de" width="700" height="350">                                                                                                                             
      * para finalizar, importe la base de datos ubicada en el archivo carros.sql, y verifique los datos del usuario administrador de phpmyadmin (usuario y contraseña)
          esto para evitar problemas con la conexion durante la ejecucion del programa, si sucede, cambiar el user y password por los que usted posea en phpmyadmin, y 
           verifique que el nombre de la base de datos sea el correcto.
