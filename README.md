@@ -12,7 +12,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <summary><h2 style="display: inline-block">Contenido</h2></summary>
   <ol>
     <li><a href="#acerca-de">Acerca de</a></li>
     <li><a href="#tecnologias-utilizadas">Tecnologias utilizadas</a></li>             
@@ -28,27 +28,27 @@
 
 ## Acerca de
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- Aqui debe ir la imagen de la vista de usuario -->
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+<!-- Aqui debe ir informacion detallada del proyecto -->
+
+## Tecnologias utilizadas
+
+* [NodeJS](https://nodejs.org/)
+* [Express](http://expressjs.com/)
+* [MySQL](https://www.mysql.com/)
+* [Javascript]
+* [HTML]
+* [CSS]                     
 
 
-### Built With
-
-* []()
-* []()
-* []()
 
 
-
-<!-- GETTING STARTED -->
-## Getting Started
+## Instalacion
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
+### pre-requisitos
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
