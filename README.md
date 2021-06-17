@@ -73,6 +73,6 @@ http://localhost:3000/
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Your Name  - email [jeduardo14lopez@gmail.com]
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/jelg14/prueba-programacion](https://github.com/jelg14/prueba-programacion)
