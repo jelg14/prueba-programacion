@@ -125,7 +125,8 @@ Para ejecutar el proyecto, realice los siguientes pasos:
       
    Una vez que haga click en send le mostrara el resultado de la imagen, puede verificar la actualizacion del dato utilizando la opcion de busqueda por id.                   
         <img src="frontend/verificar datos mysql.png" align ="center" alt="acerca de" width="700" height="350">                                                               
-                                                                                                              
+                                                                                                             
+   * Para verificar la opcion de eliminar, verifique                                                                                                          
 ## Contact
 
 José López - email [jeduardo14lopez@gmail.com](jeduardo14lopez@gmail.com)
